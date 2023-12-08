@@ -1,0 +1,15 @@
+.first_section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+#resultado {
+    display: flex;
+    justify-content: center;
+}
